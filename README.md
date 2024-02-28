@@ -1,9 +1,9 @@
 # Instruction 
       
-# Install Nodejs
-# Do npm i to install node_modules
-# To start dev server run npm start command
-# To build production build run npm build command
+ Install Nodejs
+ Do npm i to install node_modules
+ To start dev server run npm start command
+ To build production build run npm build command
 
 
 
