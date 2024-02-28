@@ -1,0 +1,1 @@
+export const API_BASE_URL: string = "https://ps-dev-1-partnergateway.patientsky.dev";
