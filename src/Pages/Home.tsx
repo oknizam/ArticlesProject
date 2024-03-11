@@ -1,4 +1,3 @@
-"use client";
 import React, { useEffect, useState } from "react";
 import { getApiCall } from "../Apis/api";
 import { articleObject } from "../Interfaces/articleInterace";
